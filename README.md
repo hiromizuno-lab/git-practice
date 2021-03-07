@@ -3,4 +3,4 @@
 ローカルリポで変更
 
 conflictブランチで変更
-GitHub上で更新
+conflict-remoteで更新
