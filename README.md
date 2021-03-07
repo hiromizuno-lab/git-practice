@@ -4,3 +4,4 @@
 
 conflictブランチで変更
 GitHub上で更新
+コンフリクト
