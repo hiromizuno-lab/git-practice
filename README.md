@@ -3,4 +3,5 @@
 ローカルリポで変更
 
 update readmen
-stash
+stash track
+1回目
